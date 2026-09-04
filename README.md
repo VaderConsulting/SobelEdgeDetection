@@ -14,6 +14,10 @@ SobelEdgeDetection is a VisualCore.Lab VB.NET WinForms lab for Sobel edge detect
 
 Open `VisualCore.Lab.SobelEdgeDetection.sln` in Visual Studio 2008 (or later with .NET Framework 2.0 targeting). The project references `..\VisualCore.Utilities\bin\Release\VisualCore.Utilities.dll` (`PrecisionTimer`); that sibling assembly is not in this tree. `Backup/` and `_UpgradeReport_Files/` are the Visual Studio 2008 conversion leftovers from 15 February 2010.
 
+## Requirements
+
+- Visual Studio 2005 to 2008
+
 ## Attribution and provenance
 
 - **Original author:** Jeremy Cowles (assembly copyright Copyright © 2008 Jeremy Cowles)
