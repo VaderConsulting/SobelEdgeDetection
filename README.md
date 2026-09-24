@@ -25,7 +25,7 @@ Open `VisualCore.Lab.SobelEdgeDetection.sln` in Visual Studio 2008 (or later wit
 - **Root namespace:** VisualCore.Lab.SobelEdgeDetection
 - **Form title:** Visual Core: Sobel Edge Detection
 - **VisualCore.Utilities:** referenced for `PrecisionTimer` (hint path `..\VisualCore.Utilities\bin\Release\VisualCore.Utilities.dll`; DLL not shipped in this folder)
-- Working copy from Dave Robinson's OneDrive Historical Dev folder `SobelEdgeDetection` (VS 2008 upgrade dated 2010-02-15)
+- Working copy from my Historical Dev folder `SobelEdgeDetection` (VS 2008 upgrade dated 2010-02-15)
 
 This repository does not claim authorship of Jeremy Cowles' VisualCore.Lab sample. See `THIRD_PARTY_NOTICES.md`.
 
